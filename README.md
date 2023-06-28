@@ -1,6 +1,6 @@
 ## astroChart
 
-- Phase 1 - In Progress
+- Phase 1 - Complete
 
 Use your birthday to determine what Zodiac sign you are. There are 
 12 Zodiac or astrological signs, each categorized according to a 
