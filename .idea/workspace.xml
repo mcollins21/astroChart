@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee9f0252-14fe-4e13-8a29-db99fcca8fa7" name="Changes" comment="Basic GUI created on index.html">
-      <change afterPath="$PROJECT_DIR$/stars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="ee9f0252-14fe-4e13-8a29-db99fcca8fa7" name="Changes" comment="gui update 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -67,7 +65,7 @@
       <workItem from="1687982370900" duration="489000" />
       <workItem from="1688066567803" duration="1324000" />
       <workItem from="1688880613850" duration="440000" />
-      <workItem from="1689405045016" duration="2346000" />
+      <workItem from="1689405045016" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit. Project timeline established in README file.">
       <option name="closed" value="true" />
@@ -109,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689406329055</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gui update 2">
+      <option name="closed" value="true" />
+      <created>1689407530007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689407530007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +139,7 @@
     <MESSAGE value="Included sun sign personality traits." />
     <MESSAGE value="Phase 3 Completed" />
     <MESSAGE value="Basic GUI created on index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic GUI created on index.html" />
+    <MESSAGE value="gui update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="gui update 2" />
   </component>
 </project>

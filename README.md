@@ -30,7 +30,7 @@ sign. Each of the Zodiac signs is connected to different
 personality traits. These traits are believed to be present in the 
 people that were born under their corresponding Zodiac sign.
 
-- Phase 3 - Incomplete
+- Phase 3 - Complete
 
 Determine your compatibility with other people based on their 
 zodiac sign. Each zodiac can be categorized by an 
